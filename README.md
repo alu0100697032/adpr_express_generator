@@ -26,17 +26,20 @@ Developers:
 Distribución del trabajo 
 
 ============
- David: 
-     * sass
-     * tests
-     * package.json
-     * Procfile
-     * gitignore
- Victor: 
-     * Scripts
-     * Server
-     * Vistas
-     * Deployment Heroku
+David: 
+
+* sass
+* tests
+* package.json
+* Procfile
+* gitignore
+
+Victor: 
+
+* Scripts
+* Server
+* Vistas
+* Deployment Heroku
 
 Enlaces:
 ========
