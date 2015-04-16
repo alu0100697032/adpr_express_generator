@@ -23,6 +23,20 @@ Developers:
 * Víctor Hernández Pérez: alu0100697032@ull.edu.es   [UserPage](http://alu0100697032.github.io/)
 * David Rodríguez González de chaves: alu0100837353@ull.edu.es   [UserPage](http://alu0100837353.github.io/)
 
+Distribución del trabajo 
+
+============
+ David: 
+     * sass
+     * tests
+     * package.json
+     * Procfile
+     * gitignore
+ Victor: 
+     * Scripts
+     * Server
+     * Vistas
+     * Deployment Heroku
 
 Enlaces:
 ========
